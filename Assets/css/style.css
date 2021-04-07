@@ -1,0 +1,31 @@
+.display-4{
+    text-align: center;
+    color: white;
+}
+
+.fas {
+    color: orange;
+    padding-left: 2rem;
+}
+h4 {
+    font-size: 42px;
+}
+.temp {
+    font-weight: bold;
+    font-size: x-small
+}
+.Hum {font-weight: bold;
+
+    font-size: x-small;
+}
+button {
+    padding-right: 1rem;
+    
+}
+.fa-cloud {
+    color: white;
+    text-shadow: 0 0 10px gray;
+}
+.labels {
+    text-align: start;
+}
